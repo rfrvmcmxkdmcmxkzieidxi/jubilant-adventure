@@ -4,11 +4,11 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ObsidianUI/Obsidian/main/Source.lua"))()
 
 local Window = Library:CreateWindow({
-    Name = "Duessksaken",
+    Name = "Duessksaken 1.12",
     Theme = "Dark",
     LoadingEnabled = true,
     LoadingTitle = "Duessksaken",
-    LoadingSubtitle = "by HOLLOW",
+    LoadingSubtitle = "i hate putting credits EVERYTIME AHHH -owner",
     ConfigurationSaving = {
         Enabled = true,
         FolderName = "Duessksaken",
@@ -338,4 +338,4 @@ BypassSec:CreateButton({
     end
 })
 
-Library:LoadConfiguration()
+Library:LoadConfiguration()c
